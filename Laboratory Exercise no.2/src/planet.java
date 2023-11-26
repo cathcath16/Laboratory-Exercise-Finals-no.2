@@ -1,12 +1,12 @@
 package laboratoryexercisefinalsno2;
 
-abstract class Prey {
+abstract class Planet {
     public abstract void Color();
     
-    public void Lion(){
-        System.out.print("The Lion");
+    public void Earth(){
+        System.out.print("The earth");
     }
-    public void Tiger(){
-        System.out.print("The Tiger");
+    public void Kepler(){
+        System.out.print("The kepler");
     }
 }
