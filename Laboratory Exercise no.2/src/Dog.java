@@ -1,9 +1,9 @@
 package laboratoryexercisefinalsno2;
 
-public class Earth extends Planet{
+public class Dog extends Pets{
     
     @Override
     public void Color(){
-        System.out.println("is our home, our planet.);
+        System.out.println("is a Good dog.]");
     }
 }
