@@ -1,9 +1,9 @@
 package laboratoryexercisefinalsno2;
 
-public class Tiger extends Prey {
+public class Kepler extends Planet{
     
     @Override
     public void Color(){
-        System.out.println("biggest kitten in the World");
+        System.out.println("is look a like an earth.");
     }
 }
