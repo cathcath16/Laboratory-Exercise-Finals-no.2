@@ -1,12 +1,12 @@
 package laboratoryexercisefinalsno2;
 
-abstract class Planet {
+abstract class Pets {
     public abstract void Color();
     
-    public void Earth(){
-        System.out.print("The earth");
+    public void Dog(){
+        System.out.print(" PIo ");
     }
-    public void Kepler(){
-        System.out.print("The kepler");
+    public void Cat(){
+        System.out.print("Miyone");
     }
 }
